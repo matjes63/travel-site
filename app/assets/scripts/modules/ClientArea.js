@@ -14,7 +14,6 @@ class ClientArea {
             e.preventDefault()
             this.sendRequest()
         })
-
     }
 
     sendRequest() {
